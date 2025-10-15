@@ -50,4 +50,4 @@ Thumbs.db
 .env.production.local
 
 # Data files (exclude large CSV files to avoid upload issues)
-data/*.csv
+*.csv
